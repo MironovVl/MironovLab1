@@ -1,6 +1,6 @@
 import math
 
-x = int(input())
+x = int(input('x = '))
 if x < 131:
 	f = 77 * x ** 5 - abs(x) + 10
 elif x < 141:
